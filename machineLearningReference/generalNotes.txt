@@ -1,0 +1,2 @@
+- Feature Engineering = Looking at different features of data and creating new features based on those observations
+    - Feature Coverage = The amount of data regarding that feature in a given data set, usually a percentage
